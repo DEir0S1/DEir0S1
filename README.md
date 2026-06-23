@@ -14,7 +14,13 @@
 
 В процессе осваиваю Java и фреймворки (Spring, Hibernate, JUnit) для дальнейшего выхода в автоматизацию. По мере освоения буду писать игру по мотивам [Rogue](https://github.com/DEir0S1/Rogue21)  
 
-## tg: [@DEir0S](https://t.me/DEir0S)
+## 🚀 Планы по развитию
+- Изучить Java и фреймворки
+- Дописать Rogue, опробовать написание JUnit тестов
+- Изучить автоматизацию тестирования
+- Создать отдельный проект с Selenium/Playwright
+
+### tg: [@DEir0S](https://t.me/DEir0S)
 
 
 ![QA](https://img.shields.io/badge/QA-Junior-blue)
