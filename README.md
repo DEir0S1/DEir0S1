@@ -25,7 +25,7 @@
 
 ![QA](https://img.shields.io/badge/QA-Junior-blue)
 ![Postman](https://img.shields.io/badge/Postman-API-orange)
-![SQL](https://img.shields.io/badge/SQL-Learning-green)
+![SQL](https://img.shields.io/badge/SQL-Basic-green)
 ![Git](https://img.shields.io/badge/Git-Version%20Control-red)
 
 ---
